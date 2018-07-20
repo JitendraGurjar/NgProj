@@ -128,5 +128,5 @@
       }
     }
   },
-  "defaultProject": "ngProj"
+  "defaultProject": "--dir=dist/ngProj"
 }
